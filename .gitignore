@@ -1,0 +1,3 @@
+images/
+*.keras
+.ipynb_checkpoints/
